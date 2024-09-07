@@ -1,1 +1,1 @@
-# takeoff-updatedminesbot.github.io
+# mines.updatedbot.github.io
